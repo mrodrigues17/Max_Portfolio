@@ -1,5 +1,17 @@
 ## Welcome to GitHub Pages
 
+#Project 1: Movie Recommender System Using Content-Based Filtering
+
+- Used data take from [IMDb](https://datasets.imdbws.com/) to do feature engineering and create sparse matrices.
+- Using cosine similarity, users select a vector of interest by indicating a movie title they like to get movie titles similar to the title they entered. The user can also specify the number of movies returned.
+- UI file: controls user interface included the ability to select movie titles and the number of recommendations
+- Server file: creates the output for the Shiny application
+- data cleaning file: reads data from IMDb files and performs filtering and feature transformations
+
+The application is available [here](https://maxrodrigues5591.shinyapps.io/Movie_Recommender/)
+
+
+
 You can use the [editor on GitHub](https://github.com/mrodrigues17/Max_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
