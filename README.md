@@ -1,2 +1,2 @@
-# Max_Portfolio
+# Maximilian Rodrigues
 Portfolio of data science projects
