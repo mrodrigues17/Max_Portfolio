@@ -1,4 +1,4 @@
-# Project 1: Movie Recommender System Using Content-Based Filtering
+# [Project 1: Movie Recommender System Using Content-Based Filtering]("https://github.com/mrodrigues17/movie_recommender")
 
 - Used data take from [IMDb](https://datasets.imdbws.com/) to do feature engineering and create sparse matrices.
 - Using cosine similarity, users select a vector of interest by indicating a movie title they like to get movie titles similar to the title they entered. The user can also specify the number of movies returned.
